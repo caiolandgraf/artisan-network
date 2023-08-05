@@ -5,6 +5,7 @@
 <div style="display: inline_block"><br>
   <img align="center" alt="Caio-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Caio-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" alt="Caio-MaterialUi" height="30" width="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c7/Google_Material_Design_Logo.svg">
   <img align="center" alt="Caio-NodeJs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
   <img align="center" alt="Caio-Express" height="30" width="30" src="https://github.com/caiolandgraf/artisan-network/blob/main/.github/express.png">
   <img align="center" alt="Caio-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
