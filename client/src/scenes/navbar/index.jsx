@@ -39,7 +39,7 @@ const Navbar = () => {
     const neutralLight = theme.palette.neutral.light
     const dark = theme.palette.neutral.dark
     const background = theme.palette.background.default
-    const primaryLight = theme.palette.red.dark
+    const primaryLight = theme.palette.primary.dark
     const alt = theme.palette.background.alt
 
     const fullName = `${user.firstName} ${user.lastName}`
@@ -52,7 +52,7 @@ const Navbar = () => {
                     transition="0.2s"
                 fontWeight="bold" 
                 fontSize="clamp(1rem, 2rem, 2.25rem)"
-                color="red.main"
+                color="primary"
                 onClick={() => navigate("/home")}
                 sx={{
                     "&:hover": {
