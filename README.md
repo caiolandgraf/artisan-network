@@ -14,6 +14,7 @@
 <br>
 <p align="center">
   <a href="https://caiolandgraf.github.io/artisan-network/">Acessar Projeto - Site</a>
+  —
   <a href="https://artisan-network-frontend.onrender.com">Acessar Projeto - Login Rede Social</a>
 </p>
 <p align="center">
