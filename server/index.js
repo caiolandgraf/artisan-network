@@ -51,6 +51,10 @@ const storage = multer.diskStorage({
 
 const upload = multer({ storage })
 
+app.get('/', (req, res) => {
+    res.send('Express JS on Vercel')
+})
+
 /* Routes with files */
 app.post("/auth/register", upload.single("picture"), register)
 app.post("/posts", verifyToken, upload.single("picture"), createPost)
